@@ -8,7 +8,7 @@ public class Main {
         Kadin personel1 = new Kadin("Meliha", "İpek", "20/04/1991");
         departman.personelEkle(personel1);
 
-        Erkek personel2 = new Kadın("Elmas", "İpek", "17/07/1965");
+        Kadın personel2 = new Kadın("Elmas", "İpek", "17/07/1965");
         departman.personelEkle(personel2);
 
         departman.gorevEkle("Muhasebe Müdürü");
